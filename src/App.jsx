@@ -3,7 +3,7 @@ import StarRating from './components/StarRating'
 function App() {
   return (
     <div>
-      <StarRating/>
+      <StarRating size={7}/>
     </div>
   )
 }
